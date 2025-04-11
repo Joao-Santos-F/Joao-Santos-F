@@ -29,3 +29,9 @@ I'm a high school student in my second year, currently studying at **SENAI Anton
 
 Thanks for visiting my profile!   
 I'm just getting started — but very excited to learn and grow.
+
+<div align="center"><br>
+  <h2>Contador de visitas</h2> 
+  
+  ![Visitor Count](https://profile-counter.glitch.me/Joao-Santos-F/count.svg)
+ </div>
