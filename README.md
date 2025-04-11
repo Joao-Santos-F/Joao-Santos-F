@@ -5,7 +5,7 @@ I'm a high school student in my second year, currently studying at **SENAI Anton
 ##  About me
 
 <div align="center"><br>
-    <a href="https://github.com/alexiamelhado18">
+    <a href="https://github.com/Joao-Santos-F">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiamelhado18&layout=compact&langs_count=16&theme=blueberry"
              />
