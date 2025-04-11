@@ -23,7 +23,7 @@ I'm a high school student in my second year, currently studying at **SENAI Anton
 
 ##  Contact
 
--  Email: joaofeitosa029@gmail.com 
+<a href = "mailto:contato@joaofeitosa029@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---
 
