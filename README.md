@@ -1,31 +1,31 @@
-# 👋 Hi there! Welcome to my GitHub
+#  Hi there! Welcome to my GitHub
 
 I'm a high school student in my second year, currently studying at **SENAI Antonio Skaf**. I'm just beginning my journey into the technical world, focusing on **Arduino** and **electronics**.
 
-## ⚡ About me
+##  About me
 
-- 🎓 Student at SENAI Antonio Skaf  
-- 🤖 Learning **Arduino** and automation basics  
-- 🔌 Interested in electronics, sensors, and hands-on projects  
-- 💡 I enjoy exploring, building circuits, and bringing ideas to life
+-  Student at SENAI Antonio Skaf  
+-  Learning **Arduino** and automation basics  
+-  Interested in electronics, sensors, and hands-on projects  
+-  I enjoy exploring, building circuits, and bringing ideas to life
 
-## 🔧 Currently learning
+##  Currently learning
 
 - Programming with **Arduino**  
 - Working with sensors, actuators, and prototyping boards  
 - Practical projects in automation and control
 
-## 🎯 Next steps
+##  Next steps
 
 - Build my first Arduino projects and share them here  
 - Learn more about robotics and home automation  
 - Take part in technical fairs or competitions
 
-## 📫 Contact
+##  Contact
 
-- 💌 Email: joaofeitosa029@gmail.com 
+-  Email: joaofeitosa029@gmail.com 
 
 ---
 
-Thanks for visiting my profile! 😊  
+Thanks for visiting my profile!   
 I'm just getting started — but very excited to learn and grow.
