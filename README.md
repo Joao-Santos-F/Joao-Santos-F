@@ -27,7 +27,7 @@ I'm a high school student in my second year, currently studying at **SENAI Anton
 
 - Build my first Arduino projects and share them here  
 - Learn more about robotics and home automation  
-- Take part in technical fairs or competitions
+- Take partner in technical fairs or competitions
 
 ##  Contact
 
