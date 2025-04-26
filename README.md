@@ -39,7 +39,7 @@ Thanks for visiting my profile!
 I'm just getting started — but very excited to learn and grow.
 
 <div align="center"><br>
-  <h2>Contador de visitas</h2> 
+  <h2>Visitor Count</h2> 
   
   ![Visitor Count](https://profile-counter.glitch.me/Joao-Santos-F/count.svg)
  </div>
