@@ -11,6 +11,10 @@ I'm a high school student in my second year, currently studying at **SENAI Anton
              />
      </a>
 </div>
+   
+<div align="center"><br>
+    
+![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Santos-F&theme=dark&show_icons=true)
 
 -  Student at SENAI Antonio Skaf  
 -  Learning **Arduino** and automation basics  
