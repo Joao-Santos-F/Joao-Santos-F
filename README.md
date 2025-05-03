@@ -16,6 +16,8 @@ I'm a high school student in my second year, currently studying at **SENAI Anton
     
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Santos-F&theme=dark&show_icons=true)
 
+</div>
+
 -  Student at SENAI Antonio Skaf  
 -  Learning **Arduino** and automation basics  
 -  Interested in electronics, sensors, and hands-on projects  
