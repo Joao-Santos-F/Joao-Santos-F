@@ -10,6 +10,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexiamelhado18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexiamelhado18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <p align="left">🎓 Estudante de Desenvolvimento de Sistemas no SENAI de Informática (2º semestre), com foco em fundamentos sólidos de programação e lógica computacional.<br><br>💻 Em aprendizado contínuo em Back-End, explorando linguagens e frameworks para criação de sistemas robustos e escaláveis.<br><br>🤖 Realizado a Microsoft AI-900 – Fundamentos de Inteligência Artificial, comprovando conhecimento em conceitos de IA, aprendizado de máquina e aplicações práticas.<br><br>🛠 Experiência prática com Arduino e C++, desenvolvendo projetos no simulador Tinkercad e aplicando lógica de programação em soluções reais.<br><br>🌐 Conhecimento inicial em desenvolvimento web e integração de sistemas.<br><br>📍 Localizado em São Caetano do Sul, SP, com facilidade de deslocamento para a Grande São Paulo.<br><br>🚀 Perfil proativo, curioso e com facilidade para aprender novas tecnologias e trabalhar em equipe.</p>
 
 ###
